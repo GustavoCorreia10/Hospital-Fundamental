@@ -11,6 +11,8 @@ Funcionalidades
 - **Convênios:** Registro de dados administrativos e carência.
 - **Quartos:** Classificação por tipo (apartamento, enfermaria, etc.) e valores.
 
+![Modelo_Dados_Hospital_PT](https://github.com/user-attachments/assets/709cf818-2c9b-4942-b4eb-79f5bea67d8c)
+
 ## Tecnologias
 
 - **Banco de Dados:** Mongodb 🍃.
