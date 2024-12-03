@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Dados Hospitalares
 
-Este projeto visa criar um **Sistema de Gerenciamento de Dados Clínicos** para substituir planilhas e formulários antigos em hospitais. A solução organiza dados de forma eficiente e segura, melhorando o gerenciamento de médicos, pacientes, consultas, internações e convênios.
+Hospital Fundamental - Um hospital local precisa desenvolver um sistema para gerenciar seus dados clínicos e substituir planilhas e arquivos antigos por um banco de dados funcional.   O objetivo é criar uma estrutura que registre médicos, pacientes, consultas, convênios, receitas médicas e muito mais...
 
 Funcionalidades
 ---
@@ -11,7 +11,9 @@ Funcionalidades
 - **Convênios:** Registro de dados administrativos e carência.
 - **Quartos:** Classificação por tipo (apartamento, enfermaria, etc.) e valores.
 
+
 ![Modelo_Dados_Hospital_PT](https://github.com/user-attachments/assets/709cf818-2c9b-4942-b4eb-79f5bea67d8c)
+
 
 ## Tecnologias
 
